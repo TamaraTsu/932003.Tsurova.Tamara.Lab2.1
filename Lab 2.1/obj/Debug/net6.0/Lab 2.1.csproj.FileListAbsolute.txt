@@ -1,0 +1,88 @@
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\appsettings.Development.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\appsettings.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.staticwebassets.runtime.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.exe
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.deps.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.runtimeconfig.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.dll
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.pdb
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.csproj.AssemblyReference.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.AssemblyInfoInputs.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.AssemblyInfo.cs
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.csproj.CoreCompileInputs.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.RazorAssemblyInfo.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.RazorAssemblyInfo.cs
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\scopedcss\bundle\Lab 2.1.styles.css
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\scopedcss\projectbundle\Lab 2.1.bundle.scp.css
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.dll
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\refint\Lab 2.1.dll
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.pdb
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.genruntimeconfig.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\ref\Lab 2.1.dll
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.staticwebassets.runtime.json
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.exe
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.deps.json
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.runtimeconfig.json
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.dll
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.pdb
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets\msbuild.Lab 2.1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab 2.1.props
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab 2.1.props
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab 2.1.props
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\scopedcss\bundle\Lab 2.1.styles.css
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\scopedcss\projectbundle\Lab 2.1.bundle.scp.css
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.dll
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\refint\Lab 2.1.dll
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.pdb
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\932003.Frantsuzov.Dmitry.Web-programming-main\932003.Frantsuzov.Dmitry.Web-programming-main\Lab 2.1\Lab 2.1\obj\Debug\net6.0\ref\Lab 2.1.dll
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\appsettings.Development.json
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\appsettings.json
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.staticwebassets.runtime.json
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.exe
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.deps.json
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.runtimeconfig.json
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.dll
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\bin\Debug\net6.0\Lab 2.1.pdb
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.csproj.AssemblyReference.cache
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.AssemblyInfoInputs.cache
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.AssemblyInfo.cs
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.csproj.CoreCompileInputs.cache
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.MvcApplicationPartsAssemblyInfo.cache
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.RazorAssemblyInfo.cache
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.RazorAssemblyInfo.cs
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets\msbuild.Lab 2.1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab 2.1.props
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab 2.1.props
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab 2.1.props
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets.build.json
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\staticwebassets.development.json
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\scopedcss\bundle\Lab 2.1.styles.css
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\scopedcss\projectbundle\Lab 2.1.bundle.scp.css
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.dll
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\refint\Lab 2.1.dll
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.pdb
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\Lab 2.1.genruntimeconfig.cache
+D:\УФФФ\Web-технологии\Web - Лабораторная работа №2.1\Lab 2.1\Lab 2.1\obj\Debug\net6.0\ref\Lab 2.1.dll
